@@ -14,7 +14,8 @@ You can use this project to display your own artworks.
 
 Installation :
 ```shell
-git clone https://github.com/ClementCariou/virtual-art-gallery.git
+https://github.com/leeseomin/virtual-art-gallery 
+cd virtual-art-gallery
 npm install
 ```
 Start the budo dev server : 
